@@ -36,5 +36,5 @@ PPTX files
 
 Other file extensions
 
-# Warning
+# Disclaimer
 Do not use these scripts on files that you are not authorized to access.
