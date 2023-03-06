@@ -17,9 +17,9 @@ credential
 secret
 ...
 ```
-Run the script from a folder and it will search the folder and subfolders.
+Run the script from a powershell prompt. (do not launch it by double-clicking on it or it will disappear when finished and you will not see the result)
 ```
-xlsxtractor.ps1
+.\xlsxtractor.ps1
 ```
 # How it works
 Open XML formatted documents are ZIP files containing XML files that contains text you typed on the Word page or Excel sheet.
