@@ -1,4 +1,3 @@
-# :warning: Coming Soon !
 # X-tractor
 Powershell scripts that searches for strings inside Office Open XML files (docx, xlsx) and txt files recursively and list paths and count the number of files containing these keywords.
 # Tools
